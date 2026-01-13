@@ -21,7 +21,7 @@ The main YOLOv8 training and detection pipeline is implemented in
 `dangerous_animal_detection_yolov8.ipynb`.
 
 ---
----
+
 ## 📓 Notebooks Structure
 
 - `dangerous_animal_detection_yolov8.ipynb` – Main YOLOv8 training and real-time detection pipeline
