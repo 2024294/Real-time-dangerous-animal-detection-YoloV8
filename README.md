@@ -22,6 +22,11 @@ The main YOLOv8 training and detection pipeline is implemented in
 
 ---
 
+## 📓 Notebooks Structure
+
+- `dangerous_animal_detection_yolov8.ipynb` – Main YOLOv8 training and real-time detection pipeline
+- `notebooks/` – Supporting notebooks for data collection, preprocessing, PySpark-based filtering, and data augmentation
+
 ## 🚨 Problem Statement
 As urban areas expand and human activity increasingly overlaps with wildlife habitats,
 dangerous animals such as **snakes, scorpions, lions, and other predators**
