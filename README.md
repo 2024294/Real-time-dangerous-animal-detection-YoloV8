@@ -11,7 +11,7 @@ and **advanced data augmentation techniques**, the system detects
 dangerous animals from surveillance camera images and enables
 early warning mechanisms to reduce risk to humans.
 
-
+---
 ## Pipeline Overview
 
 Data collection, preprocessing, filtering, and augmentation were performed
