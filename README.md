@@ -1,5 +1,3 @@
-# Real-time-dangerous-animal-detection-YoloV8
-Real-time dangerous animal detection system using YOLOv8, deep learning, and big data processing with PySpark for public safety applications.
 # Real-Time Dangerous Animal Detection Using YOLOv8
 
 This project presents a **real-time dangerous animal detection system**
@@ -129,5 +127,5 @@ prepared for professional portfolio presentation.
 ---
 
 ## 👤 Author
-**Mesut Uğur**  
+**Mesut UGUR**  
 MSc Data Analytics  
